@@ -1,4 +1,4 @@
-package org.nikunj.learning.messenger.model;
+ package org.nikunj.learning.messenger.model;
 
 import java.util.Date;
 
@@ -15,7 +15,7 @@ public class Profile {
 		
 	}
 	
-	public Profile(long id, String profileName, String firstname, String lastName)
+	public Profile(long id, String profileName, String firstName, String lastName)
 	{
 		this.id = id;
 		this.profileName = profileName;
